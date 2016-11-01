@@ -1,0 +1,14 @@
+[
+  {
+    "watchDir": "/Users/andeersg/Temporary/watch1",
+    "outputDir": "/Users/andeersg/Temporary/watch2",
+    "settings": {},
+    "matchPatterns": [
+      "([a-zA-Z0-9 .]+)S([0-9]+)E([0-9]+).([a-zA-Z0-9]+)"
+    ],
+    "plugins": [
+      "processFile",
+      "moveFile"
+    ]
+  }
+]
